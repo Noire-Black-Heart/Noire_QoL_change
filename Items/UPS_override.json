@@ -1,0 +1,14 @@
+[
+    {
+    "id": "adv_UPS_off",
+    "type": "TOOL_ARMOR",
+    "copy-from": "adv_UPS_off",
+    "ammo": "battery",
+    "name": { "str": "advanced UPS", "str_pl": "advanced UPS's" },
+    "description": "This is an advanced version of the unified power supply, or UPS.  This device has been significantly redesigned to provide better efficiency as well as to consume plutonium fuel cells rather than batteries, and is both slimmer and lighter to wear.  Sadly, its plutonium reactor can't be charged in UPS charging station.",
+    "coverage": 5,
+    "encumbrance": 1,
+    "covers": [ "leg_either" ],
+    "flags": [ "WAIST", "COMPACT", "FRAGILE", "OVERSIZE", "IS_UPS", "POWERARMOR_COMPATIBLE", "RECHARGE" ]
+  }
+]

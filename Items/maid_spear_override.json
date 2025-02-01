@@ -1,0 +1,25 @@
+[
+  {
+    "id": "kawaii_customspear_v1",
+    "type": "GENERIC",
+    "name": { "str": "Cute Custom Spear (Ver.1)" },
+    "copy-from": "kawaii_customspear_v1",
+    "flags": [ "SPEAR", "REACH_ATTACK", "SHEATH_SPEAR", "STAB" ]
+  },
+  
+    {
+    "id": "kawaii_customspear_v2",
+    "type": "GENERIC",
+    "name": { "str": "Cute Custom Spear (Ver.2)" },
+    "copy-from": "kawaii_customspear_v2",
+    "flags": [ "DURABLE_MELEE", "SPEAR", "REACH_ATTACK", "NONCONDUCTIVE", "SHEATH_SPEAR", "STAB" ]
+  },
+  
+    {
+    "id": "kawaii_customspear_v3",
+    "type": "GENERIC",
+    "name": { "str": "Cute Custom Spear (Ver.3)" },
+    "copy-from": "kawaii_customspear_v3",
+    "flags": [ "DURABLE_MELEE", "SPEAR", "REACH_ATTACK", "NONCONDUCTIVE", "SHEATH_SPEAR", "REACH3", "STAB" ]
+  }
+]

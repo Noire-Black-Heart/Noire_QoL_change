@@ -1,0 +1,18 @@
+[
+  {
+    "type": "recipe",
+    "result": "starch",
+    "id_suffix": "from_fibrous_stuff_processor",
+    "byproducts": [ [ "plant_fibre", 5 ] ],
+    "category": "CC_FOOD",
+    "subcategory": "CSC_FOOD_VEGGI",
+    "skill_used": "cooking",
+    "difficulty": 1,
+    "time": "8 m",
+	"batch_time_factors": [ 80, 3 ],
+    "autolearn": true,
+	"tools": [ [ [ "surface_heat", 5, "LIST" ] ], [ [ "food_processor", 30 ] ] ],
+    "qualities": [ { "id": "CONTAIN", "level": 1 } ],
+    "components": [ [ [ "cattail_rhizome", 2 ] ] ]
+  }
+]
