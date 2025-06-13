@@ -188,10 +188,6 @@
             "part": "hdboard_vertical"
         }, {
             "x": -3,
-            "y": -1,
-            "part": "workbench"
-        }, {
-            "x": -3,
             "y": 2,
             "part": "hdboard_vertical"
         }, {
@@ -351,22 +347,6 @@
             "y": 0,
             "part": "surge_generator_part"
         }, {
-            "x": -6,
-            "y": 1,
-            "part": "cargo_space"
-        }, {
-            "x": -5,
-            "y": 1,
-            "part": "cargo_space"
-        }, {
-            "x": -5,
-            "y": -1,
-            "part": "cargo_space"
-        }, {
-            "x": -6,
-            "y": -1,
-            "part": "cargo_space"
-        }, {
             "x": -3,
             "y": 1,
             "part": "autoclave"
@@ -405,7 +385,7 @@
             "x": -3,
             "y": 0,
             "part": "tank",
-            "fuel": "jp8"     
+            "fuel": "jp8"
         }, {
             "x": 0,
             "y": -2,
@@ -969,6 +949,26 @@
             "x": -6,
             "y": 2,
             "part": "carbonfiber_boat_hull"
+        }, {
+            "x": -5,
+            "y": 1,
+            "part": "cargo_space_carbon"
+        }, {
+            "x": -6,
+            "y": 1,
+            "part": "cargo_space_carbon"
+        }, {
+            "x": -6,
+            "y": -1,
+            "part": "cargo_space_carbon"
+        }, {
+            "x": -5,
+            "y": -1,
+            "part": "cargo_space_carbon"
+        }, {
+            "x": -3,
+            "y": -1,
+            "part": "robobench"
         }
     ]
 }
