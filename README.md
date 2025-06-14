@@ -10,6 +10,7 @@ A personal Cataclysm: Bright Nights mod for various QoL changes. Your experience
 * Added recipes to extract acid from disposable batteries
 * Made solar panels installed on vehicles foldable
 * Added a vehicle template for my personal use. The vehicle is not supposed to appear in game without using debug menu
+* Buffed Planters
 
 ## Dependencies
 

@@ -1,0 +1,11 @@
+[
+    {
+    "type": "furniture",
+    "id": "f_planter_harvest",
+    "name": "planter with harvestable plant",
+	"symbol": "#",
+	"color": "light_green",
+    "copy-from": "f_planter_harvest",
+    "plant_data": { "transform": "f_planter", "base": "f_planter", "growth_multiplier": 0.8, "harvest_multiplier": 2.5 }
+    }
+]
