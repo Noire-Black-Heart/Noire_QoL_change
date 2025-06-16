@@ -1,3 +1,4 @@
+[
 {
     "id": "flying_RV",
     "type": "vehicle",
@@ -971,4 +972,112 @@
             "part": "robobench"
         }
     ]
+},
+{
+    "id": "Adv_Tractor",
+    "type": "vehicle",
+    "name": "农用一体机",
+    "parts": [{
+            "x": 0,
+            "y": 0,
+            "part": "frame_carbon_cross"
+        }, {
+            "x": 1,
+            "y": 0,
+            "part": "frame_carbon_vertical"
+        }, {
+            "x": 0,
+            "y": -1,
+            "part": "frame_carbon_vertical"
+        }, {
+            "x": 0,
+            "y": 1,
+            "part": "frame_carbon_vertical"
+        }, {
+            "x": 1,
+            "y": -1,
+            "part": "reaper"
+        }, {
+            "x": 1,
+            "y": 1,
+            "part": "reaper"
+        }, {
+            "x": 1,
+            "y": 0,
+            "parts": ["seat", "controls"]
+        }, {
+            "x": -1,
+            "y": 0,
+            "part": "frame_carbon_vertical"
+        }, {
+            "x": -1,
+            "y": -1,
+            "part": "frame_carbon_vertical"
+        }, {
+            "x": -1,
+            "y": 1,
+            "part": "frame_carbon_vertical"
+        }, {
+            "x": -1,
+            "y": -1,
+            "part": "plow"
+        }, {
+            "x": -1,
+            "y": 1,
+            "part": "plow"
+        }, {
+            "x": 0,
+            "y": -1,
+            "part": "gray_amalgam"
+        }, {
+            "x": 0,
+            "y": 1,
+            "part": "gray_amalgam"
+        }, {
+            "x": -2,
+            "y": -1,
+            "part": "seed_drill"
+        }, {
+            "x": -2,
+            "y": 1,
+            "part": "seed_drill"
+        }, {
+            "x": -2,
+            "y": 0,
+            "parts": ["frame_carbon_vertical", "vp_plut_generator"]
+        }, {
+            "x": 0,
+            "y": 0,
+            "part": "wheel_mount_medium_steerable"
+        }, {
+            "x": -2,
+            "y": 0,
+            "parts": ["wheel_mount_medium_steerable", "wheel_wide"]
+        }, {
+            "x": 0,
+            "y": 0,
+            "part": "wheel_wide"
+        }, {
+            "x": 1,
+            "y": 0,
+            "parts": ["dashboard", "bulette_plate"]
+        }, {
+            "x": -1,
+            "y": 0,
+            "part": "robot_controls"
+        }, {
+            "x": 0,
+            "y": 0,
+            "part": "engine_electric_large"
+        }, {
+            "x": -1,
+            "y": 0,
+            "parts": ["storage_battery_mount", "large_storage_battery_removable", "reinforced_solar_panel"]
+        }, {
+            "x": 0,
+            "y": 0,
+            "parts": ["adv_butchery", "reinforced_solar_panel"]
+        }
+    ]
 }
+]
