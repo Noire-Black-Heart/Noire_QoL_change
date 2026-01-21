@@ -4,7 +4,7 @@
     "id": "Noire_QoL_Change",
     "name": "Noire's QoL Change",
     "authors": [ "Noire" ],
-    "description": "1. Adv.UPS recharge \n2. Solar panel foldable\n3. starch from food processor\n4. Kawaii maid spear",
+    "description": "1. starch from food processor\n2. Kawaii maid spear",
     "category": "misc_additions",
     "dependencies": [ "bn" ]
   }
