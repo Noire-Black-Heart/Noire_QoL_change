@@ -1,0 +1,28 @@
+[
+    {
+    "id": "adv_UPS_recharge",
+    "type": "TOOL_ARMOR",
+    "category": "electronics",
+    "looks_like": "adv_UPS_off",
+    "symbol": ";",
+    "color": "light_green",
+    "name": { "str": "自充高级autocharging advanced UPS" },
+    "description": "This is an advanced version of the unified power supply, or UPS.  This device has been significantly redesigned to provide better efficiency as well as to consume plutonium fuel cells rather than batteries, and is both slimmer and lighter to wear. it will automatically recharge.",
+    "weight": "500 g",
+    "volume": "2 L",
+    "price": "5600 USD",
+    "price_postapoc": "30 USD",
+    "to_hit": -1,
+    "bashing": 8,
+    "material": [ "aluminum", "plastic" ],
+    "coverage": 5,
+    "encumbrance": 1,
+    "covers": [ "leg_either" ],
+    "ammo": "battery" ,
+    "max_charges": 2500,
+    "ups_eff_mult": 2,
+    "ups_recharge_rate": 10,
+    "relic_data": { "recharge_scheme": [ { "type": "time", "interval": "12 m", "rate": 10 } ] },
+    "flags": [ "WAIST", "COMPACT", "FRAGILE", "OVERSIZE", "IS_UPS", "POWERARMOR_COMPATIBLE", "ALLOWS_TAIL_SNAKE","NO_RELOAD", "NO_UNLOAD" ]
+  }
+]

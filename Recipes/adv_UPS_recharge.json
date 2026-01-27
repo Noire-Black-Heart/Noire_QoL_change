@@ -1,0 +1,15 @@
+[
+  {
+    "type": "recipe",
+    "result": "adv_UPS_recharge",
+    "category": "CC_ELECTRONIC",
+    "subcategory": "CSC_ELECTRONIC_COMPONENTS",
+    "skill_used": "electronics",
+    "difficulty": 1,
+    "time": "1 s",
+    "reversible": true,
+    "decomp_learn": 1,
+    "autolearn": true,
+    "components": [ [ [ "adv_UPS_off", 1 ] ] ]
+  }
+]
