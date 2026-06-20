@@ -10,6 +10,7 @@ A personal Cataclysm: Bright Nights mod for various QoL changes. Your experience
 * Added recipes to extract acid from disposable batteries
 * Added a few vehicle templates for my personal use. The vehicle is not supposed to appear in game without using debug menu
 * Buffed Planters
+* Made pneumatic weapons usable with "gunshy" trait
 
 ## Dependencies
 

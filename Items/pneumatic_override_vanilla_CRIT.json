@@ -1,0 +1,23 @@
+[
+  {
+    "id": "crt_pelletgun",
+    "type": "GUN",
+    "copy-from": "crt_pelletgun",
+    "name": "pellet gun",
+    "flags": [ "PRIMITIVE_RANGED_WEAPON", "STR_RELOAD", "NON_FOULING", "NON_FOULING" ]
+  },
+  {
+    "id": "crt_pelletsniper",
+    "type": "GUN",
+    "copy-from": "crt_pelletsniper",
+    "name": "high power pellet gun",
+    "flags": [ "PRIMITIVE_RANGED_WEAPON", "STR_RELOAD", "NON_FOULING", "NON_FOULING" ]
+  },
+  {
+    "id": "ds_rivet_gun",
+    "type": "GUN",
+    "copy-from": "ds_rivet_gun",
+    "name": "C.R.I.T. Rivet Driver",
+    "flags": [ "PRIMITIVE_RANGED_WEAPON", "NEVER_JAMS" ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "sur_pnu_lmg",
+    "type": "GUN",
+    "copy-from": "sur_pnu_lmg",
+    "name": { "str": "survivor's pneumatic LMG" },
+    "flags": [ "PRIMITIVE_RANGED_WEAPON", "FIRE_TWOHAND", "STR_RELOAD", "NON_FOULING", "NEEDS_NO_LUBE" ]
+  },
+  {
+    "id": "c_mi_go_rifle_salvaged",
+    "type": "GUN",
+    "copy-from": "c_mi_go_rifle_salvaged",
+    "name": { "str": "salvaged resin rifle" },
+    "flags": [ "PRIMITIVE_RANGED_WEAPON", "NON_FOULING", "NEEDS_NO_LUBE", "RELOAD_ONE" ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "bbgun",
+    "copy-from": "bbgun",
+    "type": "GUN",
+    "name": { "str": "BB gun" },
+    "flags": [ "PRIMITIVE_RANGED_WEAPON", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE" ]
+  },
+  {
+    "id": "helsing",
+    "copy-from": "helsing",
+    "type": "GUN",
+    "name": { "str": "pneumatic bolt driver" },
+    "flags": [ "PRIMITIVE_RANGED_WEAPON", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE" ]
+  },
+  {
+    "id": "tihar",
+    "copy-from": "tihar",
+    "type": "GUN",
+    "name": { "str": "pneumatic assault rifle" },
+    "flags": [ "PRIMITIVE_RANGED_WEAPON", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE" ]
+  },
+  {
+    "id": "pneumatic_shotgun",
+    "copy-from": "pneumatic_shotgun",
+    "type": "GUN",
+    "name": { "str": "pneumatic shotgun" },
+    "flags": [ "PRIMITIVE_RANGED_WEAPON", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE" ]
+  },
+  {
+    "id": "nailgun",
+    "copy-from": "nailgun",
+    "type": "GUN",
+    "name": { "str": "nail gun" },
+    "flags": [ "PRIMITIVE_RANGED_WEAPON", "NEVER_JAMS", "NON_FOULING" ]
+  },
+  {
+    "id": "paintballgun",
+    "copy-from": "paintballgun",
+    "type": "GUN",
+    "name": { "str": "Paintball gun" },
+    "flags": [ "PRIMITIVE_RANGED_WEAPON", "NEVER_JAMS", "NON_FOULING" ]
+  },
+  {
+    "id": "nailrifle",
+    "copy-from": "nailrifle",
+    "type": "GUN",
+    "name": { "str": "nail rifle" },
+    "flags": [ "PRIMITIVE_RANGED_WEAPON", "NEVER_JAMS", "NON_FOULING" ]
+  },
+  {
+    "id": "airspeargun",
+    "copy-from": "airspeargun",
+    "type": "GUN",
+    "name": { "str": "pneumatic speargun" },
+    "flags": [ "PRIMITIVE_RANGED_WEAPON", "RELOAD_ONE", "STR_RELOAD", "WATERPROOF_GUN", "UNDERWATER_GUN", "NON_FOULING" ]
+  }
+]
