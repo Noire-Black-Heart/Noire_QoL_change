@@ -5,7 +5,6 @@ A personal Cataclysm: Bright Nights mod for various QoL changes. Your experience
 ## Currently implemented changes
 
 * Fixed the damage type of "Custom Maid Spear" from the mod "Project Kawaii", changed cut damage to pierce damage to reflect the polearm nature
-* Made Advanced UPS, which used plutonium cell, self-recharging
 * Added a much less time-consuming recipe to make starch from cattail rhizome with a food processor
 * Added recipes to extract acid from disposable batteries
 * Added a few vehicle templates for my personal use. The vehicle is not supposed to appear in game without using debug menu
